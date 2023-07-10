@@ -1,2 +1,2 @@
-This folder contains some scripts to practice Shell I/O Redirections and filters
+Shell I/O redirections and filters
 
