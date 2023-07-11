@@ -1,0 +1,1 @@
+This folder contains some scripts to practice shell variables and expansions
